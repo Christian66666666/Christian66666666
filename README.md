@@ -10,3 +10,4 @@
 Christian66666666/Christian66666666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+https://github.com/Christian66666666/Telegram/blob/master/TMessagesProj%2Fconfig%2Frelease.keystore
